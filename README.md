@@ -9,4 +9,4 @@ git clone https://github.com/Rafi-409/FHILE-
 
 cd FHILE-
 
-python FHILE-.py
+python FREE-FHILE_enc.py
