@@ -2,7 +2,7 @@
 This tools is free 
 
 
-Cd 
+cd 
 rm- rf FHILE-
 
 git clone https://github.com/Rafi-409/FHILE-
